@@ -1,10 +1,10 @@
-package com.example.gsuploadingfiles;
+package com.example.uploadingfiles;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GsUploadingFilesApplicationTests {
+class UploadingFilesApplicationTests {
 
 	@Test
 	void contextLoads() {
